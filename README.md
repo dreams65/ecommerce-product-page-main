@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dreams65/ecommerce-product-page-main)
+- Live Site URL: [Add live site URL here](https://dreams65.github.io/ecommerce-product-page-main/)
 
 ### Built with
 
